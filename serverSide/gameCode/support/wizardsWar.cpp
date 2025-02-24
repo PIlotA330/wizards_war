@@ -6,6 +6,6 @@
 
 #include "wizardsWar.h"
 
-wizardsWar::wizardsWar() {
-  std::cout << "WizardsWar::wizardsWar()" << std::endl;
+wizardsWar::wizardsWar(int numberPlayers) {
+  numPlayers = numberPlayers;
 }

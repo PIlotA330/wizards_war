@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 #include <string.h>
-#include "wizardsWar.h"
+#include "support/wizardsWar.h"
 
 int main() {
 
