@@ -7,7 +7,7 @@
 #include <vector>
 class player {
   public:
-	player();
+	player(int idSubmit);
 
   private:
 	int id;

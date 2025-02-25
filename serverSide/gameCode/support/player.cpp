@@ -4,6 +4,6 @@
 
 #include "player.h"
 
-player::player() {
-
+player::player(int idSubmit) {
+	int id = idSubmit;
 }

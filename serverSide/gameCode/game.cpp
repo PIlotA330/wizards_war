@@ -9,6 +9,5 @@
 #include "support/wizardsWar.h"
 
 int main() {
-
-	wizardsWar wiz;
+	wizardsWar wiz = wizardsWar(2);
 }
